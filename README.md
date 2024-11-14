@@ -39,5 +39,5 @@
 
 ![image](https://github.com/user-attachments/assets/9cd90625-fbb0-4b60-88b3-182376f9d8db)
 
-![image](https://github.com/user-attachments/assets/bdd9f023-a41c-4e3e-bd29-4185d6376804)
+![Ilustración_sin_título](https://github.com/user-attachments/assets/31426a30-bf7c-47c5-a1ab-9cca5b23b078)
 
