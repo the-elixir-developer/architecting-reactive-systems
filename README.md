@@ -37,3 +37,6 @@
 
 ![Ilustración_sin_título](https://github.com/user-attachments/assets/75ed717c-f669-4843-8ac5-541521cf3f0a)
 
+![image](https://github.com/user-attachments/assets/9cd90625-fbb0-4b60-88b3-182376f9d8db)
+
+
