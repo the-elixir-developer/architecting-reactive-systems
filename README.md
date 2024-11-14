@@ -49,4 +49,9 @@
 
 ![Ilustración_sin_título](https://github.com/user-attachments/assets/cbcbb0b4-23ed-4e80-965d-d274e087bda6)
 
+![Ilustración_sin_título](https://github.com/user-attachments/assets/b064e4d3-cb1e-4005-a337-5881baa9de27)
+
+![Ilustración_sin_título](https://github.com/user-attachments/assets/b4578807-46dc-48bb-8c77-58df5f673208)
+
+
 
