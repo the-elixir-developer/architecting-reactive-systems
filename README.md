@@ -25,3 +25,4 @@
 
 ## Erlang achievements 
 
+![Ilustración_sin_título](https://github.com/user-attachments/assets/a29b2a04-6fc3-4ba0-9ae6-27ecf71ccdd2)
