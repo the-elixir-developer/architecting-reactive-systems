@@ -29,5 +29,6 @@
 - https://www.allthingsdistributed.com/
 - Amazon Science, Dynamo paper: https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store
 - Riak DB https://docs.riak.com/
+- [The way GitHub helped Erlang and the way Erlang helped GitHub](https://www.infoq.com/interviews/erlang-and-github/)
 
 ![Ilustración_sin_título](https://github.com/user-attachments/assets/a29b2a04-6fc3-4ba0-9ae6-27ecf71ccdd2)
