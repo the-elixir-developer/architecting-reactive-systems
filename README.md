@@ -2,7 +2,8 @@
 
 > Code BEAM NYC
 
-## Intro
+![image](https://github.com/user-attachments/assets/c3efc782-12c7-4125-b6eb-28447f9ac8d6)
+
 - Reactive manifesto https://www.reactivemanifesto.org/ using Java and Scala ideas about distributed systems.
 - Expose or use a framework? Erlang background is the key for elixir developers.
 - Erlang existed before kubernetes and kafka, the problems will be still the same.
