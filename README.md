@@ -1,4 +1,4 @@
-# Architecting Reactive Systems For Scalability And Reliability by Francesco Cesarini
+# Architecting Reactive Systems For Scalability And Reliability 🗽 by Francesco Cesarini
 
 > Code BEAM NYC
 
@@ -32,3 +32,8 @@
 - [The way GitHub helped Erlang and the way Erlang helped GitHub](https://www.infoq.com/interviews/erlang-and-github/)
 
 ![Ilustración_sin_título](https://github.com/user-attachments/assets/a29b2a04-6fc3-4ba0-9ae6-27ecf71ccdd2)
+
+## Distributed architectures
+
+![Ilustración_sin_título](https://github.com/user-attachments/assets/75ed717c-f669-4843-8ac5-541521cf3f0a)
+
